@@ -2,9 +2,7 @@
 layout: default
 title: "My Home Page"
 ---
-Sofia Franco 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is my website Sofia Franco
 
 [Link to another page](./another-page.html).
 
